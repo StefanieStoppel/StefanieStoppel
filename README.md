@@ -24,3 +24,11 @@ My name is Steffi (she/her) and I'm a Software Developer turning Machine Learnin
 - ... on [Medium](https://medium.com/@qbrid) writing blog posts about Machine Learning, Python and improving my development workflows.
 - ... on [Twitter](https://twitter.com/Qbrid_) mostly posting about fairness in AI & the occasional rant on the state of scientific repositories 😉
 - ... offline, as I also like to spend a considerable amount of my days not staring at a screen 🙈
+
+---
+
+### Technologies I use...
+- 💻 Programming languages & frameworks: Python & JavaScript (especially Vue.js), but used to also code in Java (Spring Boot)
+- 🤖 Machine Learning: PyTorch, Keras, Scikit-learn, MLFlow, Optuna
+- 📊 Data juggling & visualization: NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Open3D
+- 🏗 "Ops stuff": Docker, Gitlab CI, bits of Kubernetes & Helm, Google Cloud
